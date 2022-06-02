@@ -1,0 +1,2 @@
+Hello, this is just to test how to use the git commands,
+and how to use the staging area.
